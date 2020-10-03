@@ -1,0 +1,3 @@
+// forthe class 8 added BaseActions, MainPage, MediaPage, SearchPage, Storepage, ==
+//was before only Data, Locators
+//
